@@ -1,3 +1,18 @@
+This method doesnt really seem worth using. 
+This example was done with a window of 10 a budget of 10k and 3000 epoc
+Example of using with tesla.
+Total Profit For Epoc is 24.53002700000002
+435
+The best ep was 435:449.05010600000014
+The worst ep was 80:-595.729981
+
+
+
+
+
+
+
+
 # Q-Trader
 
 An implementation of Q-learning applied to (short-term) stock trading. The model uses n-day windows of closing prices to determine if the best action to take at a given time is to buy, sell or sit.
